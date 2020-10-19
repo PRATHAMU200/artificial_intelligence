@@ -11,4 +11,5 @@ Please install requirements.
 Defult password and username for the file is "root" and "root"
 
 
-![alt text](https://marvelcinematicuniverse.fandom.com/wiki/J.A.R.V.I.S.?file=JuARaVeInSy.png)
+
+![alt text](https://github.com/PRATHAMU200/artificial_intelligence/blob/main/jarvis.png)
